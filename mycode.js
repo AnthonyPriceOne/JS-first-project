@@ -1,4 +1,5 @@
 //New update from 2024
+//Another update, testing pull
 let playerSelection;
 
 let sumPlayerall = 0;
